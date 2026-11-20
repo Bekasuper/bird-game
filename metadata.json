@@ -1,0 +1,6 @@
+{
+  "name": "Bird Sort 2: Лесная Сортировка",
+  "description": "Мобильная игра-головоломка по сортировке лесных птиц на ветках с процедурной векторной графикой и звуками Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
